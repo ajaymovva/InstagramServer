@@ -1,0 +1,618 @@
+Mon Nov 23 2020 - Error: Invalid Email or  password
+    at /Users/ajaykumar/projects/Instagram/server/src/services/userServices.js:20:25
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Wrong credentials
+    at /Users/ajaykumar/projects/Instagram/server/src/services/userServices.js:38:29
+Tue Nov 24 2020 - Error: Wrong credentials
+    at /Users/ajaykumar/projects/Instagram/server/src/services/userServices.js:38:29
+Tue Nov 24 2020 - Error: Wrong credentials
+    at /Users/ajaykumar/projects/Instagram/server/src/services/userServices.js:38:29
+Tue Nov 24 2020 - Error: Wrong credentials
+    at /Users/ajaykumar/projects/Instagram/server/src/services/userServices.js:39:29
+Tue Nov 24 2020 - Error: Error while removing from followers
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:92:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from followers
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:92:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from followers
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:92:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from followers
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:92:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from followers
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:92:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from followers
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:92:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from followers
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:92:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from followers
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:92:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from followers
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:93:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from followers
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:93:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from followers
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:93:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from followers
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:93:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from followers
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:93:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from followers
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:93:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from followers
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:93:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from followers
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:93:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from following
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:108:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from following
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:110:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from following
+    at /Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:110:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from following
+    at Object.model.removeFromFollowing (/Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:104:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from following
+    at Object.model.removeFromFollowing (/Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:103:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Nov 24 2020 - Error: Error while removing from following
+    at Object.model.removeFromFollowing (/Users/ajaykumar/projects/Instagram/server/src/dbLayer/userDbLayer.js:103:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Nov 26 2020 - ReferenceError: title is not defined
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/postRoutes.js:17:5
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Nov 26 2020 - ReferenceError: title is not defined
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/postRoutes.js:17:5
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Nov 26 2020 - ReferenceError: title is not defined
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/postRoutes.js:17:5
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Nov 26 2020 - Error: Wrong credentials
+    at Object.service.findUser (/Users/ajaykumar/projects/Instagram/server/src/services/userServices.js:35:23)
+Thu Nov 26 2020 - Error: Wrong credentials
+    at Object.service.findUser (/Users/ajaykumar/projects/Instagram/server/src/services/userServices.js:35:23)
+Thu Nov 26 2020 - Error: Wrong credentials
+    at Object.service.findUser (/Users/ajaykumar/projects/Instagram/server/src/services/userServices.js:35:23)
+Thu Dec 31 2020 - TypeError: Cannot set property 'password' of null
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/postRoutes.js:20:23
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - TypeError: Cannot set property 'password' of null
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/postRoutes.js:20:23
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Invalid Email or  password
+    at Object.service.findUser (/Users/ajaykumar/projects/Instagram/server/src/services/userServices.js:19:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Invalid Email or  password
+    at Object.service.findUser (/Users/ajaykumar/projects/Instagram/server/src/services/userServices.js:19:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Dec 31 2020 - Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:59:11)
+    at Function.ObjectID (/Users/ajaykumar/projects/Instagram/server/node_modules/bson/lib/bson/objectid.js:40:43)
+    at /Users/ajaykumar/projects/Instagram/server/src/routing/userRoutes.js:29:35
+    at Layer.handle [as handle_request] (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/ajaykumar/projects/Instagram/server/node_modules/express/lib/router/route.js:137:13)
+    at /Users/ajaykumar/projects/Instagram/server/src/services/requireLogin.js:18:13
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
